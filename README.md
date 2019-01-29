@@ -19,7 +19,7 @@
 <img src="https://media.giphy.com/media/5biWAzpKjALoAPOpml/giphy.gif" width=250><br>
 
 ### Notes for Part 2
-A couple of challenges that I encountered where styling the Collections View Cell and reinitializing a folder for all my images in Xcode.
+During the process of building the second part of this application, I encounter a few difficulties. The first was styling the Collections View Cell, and the other was reinitializing a folder for all the icons in Xcode.
 
 ---
 
